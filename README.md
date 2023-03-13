@@ -50,8 +50,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <!-- ## 🚀 Como executar
 
 Para executar a aplicação é necessário usar os seguintes comandos no terminal:
-- `comando para instalar as dependências` para instalar as dependências da aplicação.
-- `comando para executar a aplicação` para executar a aplicação. -->
+- `cd packages/tokens` para entrar no diretório.
+- `pnpm install` para instalar as dependências da aplicação.
+- `pnpm dev` para executar a aplicação. -->
 
 ## 🔖 Layout
 
