@@ -47,12 +47,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - npm workspaces
 
 
-<!-- ## 🚀 Como executar
+## 🚀 Como executar
 
 Para executar a aplicação é necessário usar os seguintes comandos no terminal:
-- `cd packages/tokens` para entrar no diretório.
-- `pnpm install` para instalar as dependências da aplicação.
-- `pnpm dev` para executar a aplicação. -->
+- `npm install` para instalar as dependências da aplicação.
+- `npm run dev` para executar a aplicação.
 
 ## 🔖 Layout
 
