@@ -8,7 +8,14 @@ export default {
 
   args: {
     src: 'https://github.com/hector-taver.png',
-    alt: 'Hector Taver',
+    alt: 'profile photo',
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
   },
 } as Meta<AvatarProps>
 
