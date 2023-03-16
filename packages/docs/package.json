@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "export SET NODE_OPTIONS=--openssl-legacy-provider &&  start-storybook -p 6006",
     "deploy-storybook": "storybook-to-ghpages",
-    "build": "export SET NODE_OPTIONS=--openssl-legacy-provider &&  build-storybook"
+    "build": "build-storybook"
   },
   "keywords": [],
   "author": "",
