@@ -1,10 +1,11 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@hvtt-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
-    "dev": "export SET NODE_OPTIONS=--openssl-legacy-provider &&  start-storybook -p 6006",
+    "dev": "start-storybook -p 6006",
     "deploy-storybook": "storybook-to-ghpages",
     "build": "build-storybook"
   },
@@ -26,10 +27,10 @@
     "vite": "^4.1.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@hvtt-ignite-ui/eslint-config": "*",
+    "@hvtt-ignite-ui/react": "*",
+    "@hvtt-ignite-ui/tokens": "*",
+    "@hvtt-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
