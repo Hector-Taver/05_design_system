@@ -1,7 +1,7 @@
 <h1 align="center"> Ignite Design System </h1>
 
 <p align="center">
-  Quinto projeto desenvolvido durante o bootcamp Ignite da Rocketseat.
+  Quinto projeto de React da trilha 2022 do bootcamp Ignite da Rocketseat.
 </p>
 
 <p align="center">
