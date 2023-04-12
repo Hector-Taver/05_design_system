@@ -1,0 +1,2 @@
+import{A as t}from"./index-681960de.js";import"./index-e5acd8c0.js";import"./iframe-609e3ffa.js";import"./index-9029f176.js";import"./jsx-runtime-2d0c5124.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/hector-taver.png",alt:"profile photo"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-9514b627.js.map
