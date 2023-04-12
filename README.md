@@ -22,15 +22,15 @@
 Esse projeto é um Design System que será utilizado na aplicação Ignite Call. O Ignite Call será o sexto projeto desenvolvido durante o bootcamp Ignite da Rocketseat.
 
 Componentes criados para esse Design System:
-- [ ] Text
-- [ ] Heading
-- [ ] Box
-- [ ] Button
-- [ ] TextInput
-- [ ] TextArea
-- [ ] Checkbox
-- [ ] Avatar
-- [ ] MultiStep
+- Text
+- Heading
+- Box
+- Button
+- TextInput
+- TextArea
+- Checkbox
+- Avatar
+- MultiStep
 
 
 ## ✨ Tecnologias
